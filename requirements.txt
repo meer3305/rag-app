@@ -1,0 +1,17 @@
+streamlit
+langchain
+langchain-google-genai
+faiss-cpu
+pypdf
+python-pptx
+unstructured
+tiktoken
+google-genai
+streamlit
+langchain
+langchain-google-genai
+faiss-cpu
+pypdf
+python-pptx
+unstructured
+tiktoken
