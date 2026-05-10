@@ -128,18 +128,4 @@ License
 This project is licensed under the MIT License.
 See the LICENSE file for details.
 
-markdown
-Copy code
 
----
-
-### ✅ Next Steps for You
-
-To finalize this README:
-
-- Replace `assets/rag-app-screenshot.png` and `assets/rag-example.gif` with actual screenshots/GIFs of your app.
-- Adjust the **Tech Stack** and **Usage** sections based on your actual code (e.g., whether you're using Streamlit, FastAPI, Flask).
-- Add concrete example commands from your `app.py`.
-
-If you want, I can generate **visual badges** and help create **diagram flows** (architecture images) or a **Getting Started video embed** for this README too.
-::contentReference[oaicite:2]{index=2}
